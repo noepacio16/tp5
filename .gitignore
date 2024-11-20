@@ -1,2 +1,7 @@
-# dependencies
+# Ignorar la carpeta node_modules
 node_modules/
+
+# También puedes ignorar archivos específicos de entorno y configuración que no son necesarios en el repositorio
+.DS_Store
+*.log
+.env
