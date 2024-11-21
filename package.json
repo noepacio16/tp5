@@ -1,5 +1,23 @@
 {
   "devDependencies": {
     "astro": "^4.16.13"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "start": "astro preview"
+  },
+  "dependencies": {
+    "@astrojs/partytown": "^2.1.2",
+    "@astrojs/react": "^3.6.2",
+    "@astrojs/sitemap": "^3.2.1",
+    "@astrojs/tailwind": "^5.1.2",
+    "@fontsource/roboto": "^5.1.0",
+    "@radix-ui/react-slot": "^1.1.0",
+    "@tailwindcss/aspect-ratio": "^0.4.2",
+    "class-variance-authority": "^0.7.0",
+    "lucide-react": "^0.460.0",
+    "tailwind-merge": "^2.5.4",
+    "tailwindcss-animate": "^1.0.7"
   }
 }
