@@ -1,4 +1,7 @@
 {
+  "engines": {
+    "node": "16.x"
+  },
   "devDependencies": {
     "astro": "^4.16.13"
   },
