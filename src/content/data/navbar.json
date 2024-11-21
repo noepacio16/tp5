@@ -1,0 +1,24 @@
+{
+  "pages": [
+    {
+      "name": "Home",
+      "link": "/"
+    },
+    {
+      "name": "About",
+      "link": "/about"
+    },
+    {
+      "name": "Multimedial Projects",
+      "link": "/projects"
+    },
+    {
+      "name": "Voice Projects",
+      "link": "/demos"
+    },
+    {
+      "name": "Resume",
+      "link": "/pacio-noeli-resume.pdf"
+    }
+  ]
+}

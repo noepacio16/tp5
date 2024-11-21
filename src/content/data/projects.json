@@ -1,0 +1,22 @@
+{
+  "projects": [
+
+    {
+      "name": "Domestikus App",
+      "description": "Research and UX/UI design for a mobile application focused on pet care.",
+      "href": "https://www.behance.net/gallery/212727659/Mobile-Videogame-for-a-Coffee-Store",
+      "langs": "XD",
+      "date": "2024"
+    }, 
+    {
+      "name": "Music Video: Tanto Tiempo by Lucho Atta",
+      "description": "Production of a music video where I was responsible for the camera work, editing, and production.",
+      "link": "/audiovisual.mp4",
+      "langs": "Premiere",
+      "date": "2022"
+    }
+  ]
+}
+
+
+

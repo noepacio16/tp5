@@ -1,0 +1,23 @@
+---
+import { demos as p } from "@/content/data/demos.json";
+import Demos from "@/components/molecules/Demos.astro";
+---
+
+{
+  p.map((demos) => (
+    <>
+      <Demos
+        name={demos.name}
+        description={demos.description}
+        href={demos.link}
+        ctext={demos.custom?.text}
+        clink={demos.custom?.link}
+        langs={demos.langs}
+        tools={demos.tools}
+        date={demos.date}
+      />
+      <br />
+      <br />
+    </>
+  ))
+}

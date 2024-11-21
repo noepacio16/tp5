@@ -1,2 +1,25 @@
-# Ignorar la carpeta node_modules
+# Dependencias de node.js
 node_modules/
+
+# Archivos y carpetas generadas por Astro
+.astro/
+
+# Configuraciones específicas de la plataforma de despliegue (Vercel)
+.vercel/
+
+# Archivos generados por la construcción del proyecto
+/public/
+
+# Archivos de configuración local
+.eslint.config.js
+.prettierrc.mjs
+tailwind.config.mjs
+
+# Archivos de configuración y dependencias
+package-lock.json
+
+# Archivos de log
+*.log
+
+# Archivos de entorno
+.env

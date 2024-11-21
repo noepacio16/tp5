@@ -1,0 +1,19 @@
+{
+    "demos": [
+      {
+        "name": "Dubbing Demo Reel - Spanish",
+        "description": "A short audio showcasing some projects completed in neutral Spanish.",
+        "link": "/demo-reel-doblaje.mp3",
+        "langs": "Audition",
+        "date": "2022"
+      },
+      {
+        "name": "Voiceover Demo Reel - Spanish",
+        "description": "A short audio showcasing some completed projects.",
+        "link": "/demo-reel.mp3",
+        "langs": "Audition",
+        "date": "2020"
+      }
+    ]
+  }
+  
